@@ -18,9 +18,9 @@ public class Info {
     static int animalInd = 0;
     static Map<String, String> sounds = new HashMap<>();
     static {
-        sounds.put("dog", "bark");
-        sounds.put("cat", "meow");
-        sounds.put("sheep", "baa");
+        sounds.put("dog", "bark!");
+        sounds.put("cat", "meow!");
+        sounds.put("sheep", "baa!");
     }
     public static void main(String[] args){
         // Create and initialize Scanner
@@ -47,7 +47,7 @@ public class Info {
         // Gets the oldest animal from the group of most common animal
         int oldIndex = oldestCommonAnimal(mals, mCAnimal);
         //Print resulting output
-        System.out.println(mals[oldIndex].name + " the "  + mals[oldIndex].color + " " + mCAnimal + " says " + mCSound);
+        System.out.println(mals[oldIndex].name + ", the "  + mals[oldIndex].color + " " + mCAnimal + " says " + mCSound);
     }
     /*
         Helper Method
