@@ -9,20 +9,20 @@ The input must be in the proper format specified below in order to successfully 
 The species must only be selected from the following list: dog, cat, sheep.
 
 
-input Args(Name,Date(m/dd/yyyy),color,species):
+input: Args(Name,Date(m/dd/yyyy),color,species)
 
-Spike,1/1/2020,white,dog
+**Spike,1/1/2020,white,dog
 
-Sandy,3/5/2018,blue,cat
+**Sandy,3/5/2018,blue,cat
 
-Fluffy,2/29/2016,black,sheep
+**Fluffy,2/29/2016,black,sheep
 
-Garfield,9/17/1998,orange,cat
+**Garfield,9/17/1998,orange,cat
 
 
 output:
 
-Garfield, the orange cat says meow!
+**Garfield, the orange cat says meow!
 
 
 *Remember to press enter button on your computer after entering the input values in the format described above.
