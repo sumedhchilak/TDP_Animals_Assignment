@@ -28,5 +28,5 @@ The species must only be selected from the following list: dog, cat, sheep.
 
 
 #### Side Note
-*Remember to press enter button on your computer after entering the input values in the format described above.
+*Remember to press the enter button on your computer after entering the input values in the format described above.
 This will allow the program to know you are done entering the input values.
