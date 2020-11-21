@@ -13,7 +13,7 @@ Spike,1/1/2020,white,dog
 Sandy,3/5/2018,blue,cat
 Fluffy,2/29/2016,black,sheep
 Garfield,9/17/1998,orange,cat
-
+ 
 
 Here is the corresponding output:
 
