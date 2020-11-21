@@ -6,8 +6,10 @@ The program is responsible for retrieving the oldest most common species from a 
 
 The input must be in the proper format specified below in order to successfully compile and output the correct response.
 
+The species must only be selected from the following list: dog, cat, sheep.
 
-input:
+
+input Args(Name,Date(m/dd/yyyy),color,species):
 
 Spike,1/1/2020,white,dog
 
